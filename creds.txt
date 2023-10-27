@@ -1,2 +1,0 @@
-username = rak
-passward = rak123
